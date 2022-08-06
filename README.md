@@ -2,4 +2,4 @@
 
 + Features armature and clothes
 
-<img src="https://i.imgur.com/b5i42En.png">
+<img src="https://i.imgur.com/mPpGaHy.png">
